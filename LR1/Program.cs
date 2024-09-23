@@ -3,6 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        //test
         // Ввод и обработка трех аргументов
         for (int i = 1; i <= 3; i++)
         {
